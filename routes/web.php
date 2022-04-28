@@ -22,6 +22,6 @@ echo "<center><h1> Tes Halaman pertama </h1>";
 Route::get('/route2', function () {
 echo "<center><h1> Tes Halaman kedua </h1>";
 });
-Route::get('/route2', function () {
-echo "<center><h1> Tes Halaman kedua </h1>";
+Route::get('/route3', function () {
+echo "<center><h1> Tes Halaman ketiga </h1>";
 });
